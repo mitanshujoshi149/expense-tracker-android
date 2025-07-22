@@ -15,15 +15,6 @@ Welcome to the Expense Tracker Android app! This project is designed to help use
 - **Dagger Hilt:** A dependency injection library for Android that reduces the boilerplate of manual dependency injection.
 - **MVVM Architecture:** Model-View-ViewModel architecture for separating the UI, business logic, and data handling in the app.
 
-## YouTube Tutorial Series
-
-This project is part of a series of tutorials available on my YouTube channel. Follow along with the videos to build this app from scratch!
-
-1. **[Part 1: Project Setup and Basics](https://youtu.be/LfHkAUzup5E)**
-2. **[Part 2: Implementing Room Database](https://youtu.be/dPeSoNWVu-Y)**
-3. **[Part 3: Adding and Displaying Expenses](https://youtu.be/mq8lekRbF4I)**
-4. **[Part 4: Tracking Expenses with Stats](https://youtu.be/xolI_2svC6w)**
-
 Be sure to check out the videos for a detailed guide on how to implement each feature.
 
 ## Screenshots
@@ -41,20 +32,6 @@ Here are some screenshots of the Expense Tracker app in action:
 - Android Studio Bumblebee or later
 - Java 11 or later
 - Android SDK 21 or later
-
-### Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/yourusername/ExpenseTrackerAndroid.git
-    ```
-
-2. Open the project in Android Studio.
-
-3. Sync the project with Gradle files.
-
-4. Run the app on an emulator or physical device.
 
 ### Usage
 
@@ -76,8 +53,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to h
 
 ## Contact
 
-For any queries or suggestions, feel free to contact me at [furqanullah717@gmail.com](mailto:furqanullah717@gmail.com).
-
----
-
-**YouTube Channel:** [CodeWithFK](https://www.youtube.com/@codewithfk)
+For any queries or suggestions, feel free to contact me at [mitanshujoshi2004@gmail.com).
